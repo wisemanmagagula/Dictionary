@@ -1,0 +1,14 @@
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\bin\Debug\net6.0\DictionaryRepository.deps.json
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\bin\Debug\net6.0\DictionaryRepository.runtimeconfig.json
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\bin\Debug\net6.0\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\bin\Debug\net6.0\DictionaryRepository.pdb
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.csproj.AssemblyReference.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.AssemblyInfoInputs.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.AssemblyInfo.cs
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.csproj.CoreCompileInputs.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\refint\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.pdb
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\DictionaryRepository.genruntimeconfig.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\net6.0\ref\DictionaryRepository.dll

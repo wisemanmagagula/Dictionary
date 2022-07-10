@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Source Control\\syd apps\\Dictionary\\DictionaryRepository\\DictionaryRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Source Control\\syd apps\\Dictionary\\DictionaryRepository\\DictionaryRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source Control\\syd apps\\Dictionary\\DictionaryRepository\\DictionaryRepository.csproj",
+        "projectName": "DictionaryRepository",
+        "projectPath": "C:\\Source Control\\syd apps\\Dictionary\\DictionaryRepository\\DictionaryRepository.csproj",
+        "packagesPath": "C:\\Users\\sydney.nkosi\\.nuget\\packages\\",
+        "outputPath": "C:\\Source Control\\syd apps\\Dictionary\\DictionaryRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sydney.nkosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcvmtfsbldprd01.investec.corp/id.nuget.server/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://isljhbbldpr01.investec.corp/IWI.NuGetServer/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

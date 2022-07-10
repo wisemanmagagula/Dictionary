@@ -1,0 +1,5 @@
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\netcoreapp3.1\DictionaryRepository.csproj.AssemblyReference.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\netcoreapp3.1\DictionaryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\netcoreapp3.1\DictionaryRepository.AssemblyInfoInputs.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\netcoreapp3.1\DictionaryRepository.AssemblyInfo.cs
+C:\Source Control\syd apps\Dictionary\DictionaryRepository\obj\Debug\netcoreapp3.1\DictionaryRepository.csproj.CoreCompileInputs.cache

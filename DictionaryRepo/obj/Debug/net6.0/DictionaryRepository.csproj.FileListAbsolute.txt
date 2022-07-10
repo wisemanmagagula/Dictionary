@@ -1,0 +1,28 @@
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.deps.json
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.runtimeconfig.json
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.pdb
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.csproj.AssemblyReference.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.AssemblyInfoInputs.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.AssemblyInfo.cs
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.csproj.CoreCompileInputs.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\refint\DictionaryRepository.dll
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.pdb
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.genruntimeconfig.cache
+C:\Source Control\syd apps\Dictionary\DictionaryRepo\obj\Debug\net6.0\ref\DictionaryRepository.dll
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.AssemblyInfoInputs.cache
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.AssemblyInfo.cs
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.csproj.CoreCompileInputs.cache
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.deps.json
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.runtimeconfig.json
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.dll
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\bin\Debug\net6.0\DictionaryRepository.pdb
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.csproj.AssemblyReference.cache
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.dll
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\refint\DictionaryRepository.dll
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.pdb
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\DictionaryRepository.genruntimeconfig.cache
+C:\Users\wiseman.magagula\Downloads\Dictionary\Dictionary\DictionaryRepo\obj\Debug\net6.0\ref\DictionaryRepository.dll
