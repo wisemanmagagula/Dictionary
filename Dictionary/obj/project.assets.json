@@ -1453,11 +1453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
       "projectName": "Dictionary",
-      "projectPath": "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
+      "projectPath": "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
       "packagesPath": "C:\\Users\\wiseman.magagula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\Dictionary\\obj\\",
+      "outputPath": "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1478,8 +1478,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\DictionaryRepo\\DictionaryRepository.csproj": {
-              "projectPath": "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\DictionaryRepo\\DictionaryRepository.csproj"
+            "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\DictionaryRepo\\DictionaryRepository.csproj": {
+              "projectPath": "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\DictionaryRepo\\DictionaryRepository.csproj"
             }
           }
         }

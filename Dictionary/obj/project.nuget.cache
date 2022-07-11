@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0g6h8f6GIo0ZF/HeZ/UZZyjyqtrbJ9dH0ilcsjsACuRRYLTJeND5rvp+R2+EeuLUJ56+yqTiskMQOgf7U5VC9w==",
+  "dgSpecHash": "mfGY5Abu5Qct5fqjT7RLiiZfGO1g8oA6EJBLLhJr7l0nOWFq1Uk2kAbImsMl/8U57tGzQ2vRkwSELui0ZtX56w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wiseman.magagula\\Downloads\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
+  "projectFilePath": "C:\\Users\\wiseman.magagula\\OneDrive - Investec\\Documents\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wiseman.magagula\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\wiseman.magagula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
